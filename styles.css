@@ -1,0 +1,11 @@
+h1 {
+    background-color: rgb(128, 0, 255);
+    font-family: cooper;
+}
+.container {
+    color:rgb(0, 132, 255);
+}
+#container {
+    color:red;
+    font-family: cooper;
+}
